@@ -1,0 +1,2 @@
+opcode,samples,estimated_ms,share_of_all_samples_pct,share_of_direct_js_samples_pct,share_of_handler_samples_pct,approx_relative_95pct_error_pct
+GetNamedProperty,1,15.765407,1.219512,9.090909,100.0,196.0
